@@ -1,6 +1,17 @@
 
- My data baset address:
+
+                 My data baset address:
 https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels
 
- My google colab address
-https://drive.google.com/drive/folders/1_RCkvhHwNz2wN1L3pfxlsM2q3cU_QTrO
+                  Exercise_1
+https://colab.research.google.com/drive/1eY-3f5KQ4cpN1E8zi6dxF65CPMJ_E4pG?usp=sharing
+
+                  Exercise_2
+https://colab.research.google.com/drive/1Y_H9O3Lpiodkmg2kjggXXqvvwhsOG37p?usp=sharing
+
+                 Exercise project X
+https://docs.google.com/document/d/1I7xGlSXwS02Rw_WROk7maOf-I9Y6VI-l/edit?usp=sharing&ouid=103899856445530241446&rtpof=true&sd=true
+
+
+
+
